@@ -41,3 +41,10 @@ Feeling adventurous? In the Collection Details page add the collection details i
 - Your project code (A link to your hosted version where it can be tested).
 Please include a Zip file with your screenshots and submit a link for your working code in the “Mobile Challenge Submission” section of the application. 
 
+
+### Final Product
+
+
+![Demo](https://github.com/jpeng06/Shopify/blob/master/images/Screen%20Shot%202019-01-08%20at%201.48.58%20AM.png "Demo")
+![Demo](https://github.com/jpeng06/Shopify/blob/master/images/Screen%20Shot%202019-01-08%20at%201.49.17%20AM.png "Demo")
+![Demo](https://github.com/jpeng06/Shopify/blob/master/images/Screen%20Shot%202019-01-08%20at%201.49.46%20AM.png "Demo")
