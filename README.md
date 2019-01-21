@@ -1,7 +1,7 @@
 # Shopify
 ### 2019 Summer Intern Challenge  
 
-Let’s create an app that displays a Custom Collections list page and a Collection Details page. Your app will fetch the data from the Shopify Custom Collections REST API: https://shopicruit.myshopify.com/admin/custom_collections.json?page=1&access_token=c32313df0d0ef512ca64d5b336a0d7c6
+Let’s create an app that displays a Custom Collections list page and a Collection Details page. Your app will fetch the data from the Shopify Custom Collections [REST API](https://shopicruit.myshopify.com/admin/custom_collections.json?page=1&access_token=c32313df0d0ef512ca64d5b336a0d7c6)
 
 - Custom Collections list page: A simple list of every custom collection (e.g. In our above response you will see we will need cells for: Aerodynamic, Durable and Small). Tapping on a collection launches the Collection Details page. 
 - Collection Details page: A list of every product for a specific collection. Each row in the list needs to contain, at a minimum: 
@@ -25,10 +25,12 @@ https://shopicruit.myshopify.com/admin/products.json?ids=2759137027,2759143811&p
 
 Here are a couple simple libraries that you can use to fetch the data (these are optional, you can pick one or use any other alternative).
 
-Android:
+* Android:
+
 http://square.github.io/retrofit/
 http://square.github.io/okhttp/
-iOS:
+
+* iOS:
 https://github.com/Alamofire/Alamofire/ or just use URLSession
 
 ### Extra
