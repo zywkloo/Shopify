@@ -1,7 +1,7 @@
 # Forked from jpeng06
 
 Jan 20
-* Did some UI constraint excercises on launching page.
+* Reset UI constraints and changed elements on launching page.
 
 Jan 21
 * modified the icon.
